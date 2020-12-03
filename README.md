@@ -5,6 +5,10 @@ When running, run server python file then run GUI
 
 Folder 1 
   Takes information from  python file and stores them into txt file
+  
 Folder 2
   Takes GUI information and makes XML file and sends to server
+  
+Folder 3
+  Takes Clients XML file an converts to HTML at Server side
  
